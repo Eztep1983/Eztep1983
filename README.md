@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Esteban @Eztep1983
+- 👀 I’m interested in software solutions
+- 🌱 I’m currently learning Python, HTML5, CSS, and web frameworks such as django for backend and angular for frontend
+- 💞️ I’m looking to collaborate on multiple projects in different categories in order to learn
+- 📫 How to reach me you can contact me via emai if you are interested in working together: extep1983@gmail.com
